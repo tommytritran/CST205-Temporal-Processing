@@ -63,7 +63,9 @@ for x in range(width):
 		green_array = []
 		blue_array = []
 
+new_img.save("images/result.png")
 new_img.show()
+
 
 
 
