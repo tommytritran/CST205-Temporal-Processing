@@ -3,7 +3,7 @@ Author: Tommy Tran - tran7794
 Partner: Will Carrara
 Date: 2018-Sept-26
 Task: Homework2
-Exercise: Temporal Processing
+Exercise: Can you process a series of images using temporal processing to remove an unwanted element in the series?
 Course: CST205
 '''
 from PIL import Image
