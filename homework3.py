@@ -1,3 +1,11 @@
+'''
+Author: Tommy Tran - tran7794
+Partner: Will Carrara
+Date: 2018-Sept-26
+Task: Homework2
+Exercise: Temporal Processing
+Course: CST205
+'''
 from PIL import Image
 import glob
 import math
